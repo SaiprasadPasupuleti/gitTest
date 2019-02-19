@@ -8,6 +8,7 @@ public class SpringBootMongodbExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMongodbExampleApplication.class, args);
+		System.out.println();
 	}
 
 }
