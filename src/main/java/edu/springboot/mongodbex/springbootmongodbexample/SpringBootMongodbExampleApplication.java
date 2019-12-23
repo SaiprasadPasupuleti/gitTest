@@ -8,7 +8,7 @@ public class SpringBootMongodbExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMongodbExampleApplication.class, args);
-		System.out.println();
+		System.out.println("End of the main");
 	}
 
 }
